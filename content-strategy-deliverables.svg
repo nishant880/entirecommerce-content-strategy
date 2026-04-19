@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="-apple-system, 'Poppins', 'Inter', sans-serif">
+  <!-- Background -->
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#75e9d2" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#75e9d2" stop-opacity="0.00"/>
+    </radialGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111119"/>
+      <stop offset="100%" stop-color="#0d0d14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="#08080d"/>
+  <rect width="1080" height="1080" fill="url(#bgGlow)"/>
+
+  <!-- Top label -->
+  <text x="540" y="96" text-anchor="middle" fill="#75e9d2" font-size="20" font-weight="600" letter-spacing="4" font-family="'Poppins', sans-serif">FREE FOR FOUNDER-LED DTC BRANDS</text>
+
+  <!-- Title -->
+  <text x="540" y="170" text-anchor="middle" fill="#ffffff" font-size="78" font-weight="800" font-family="'Montserrat', sans-serif" letter-spacing="-2">AI Content Strategy</text>
+
+  <!-- Subtitle -->
+  <text x="540" y="220" text-anchor="middle" fill="#9494ad" font-size="24" font-weight="400">Ten deliverables. Cross-input synthesis. Delivered in an hour.</text>
+
+  <!-- 10 cards: 2 cols × 5 rows -->
+  <!-- Card dimensions: w=480 h=112, col1 x=40, col2 x=560. row starts: 270, 396, 522, 648, 774 -->
+
+  <g font-family="'Poppins', sans-serif">
+    <!-- 01 ICP Language Audit -->
+    <g transform="translate(40 270)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">01 · ICP LANGUAGE AUDIT</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Audience words + recurring themes</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">15 verbatim quotes · Reddit, X, Quora · 5-10 themes</text>
+    </g>
+
+    <!-- 02 Positioning Synthesis -->
+    <g transform="translate(560 270)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">02 · POSITIONING SYNTHESIS</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">The territory nobody else owns</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">ICP themes + founder vision + competitor whitespace</text>
+    </g>
+
+    <!-- 03 Topic Pillars -->
+    <g transform="translate(40 396)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">03 · TOPIC PILLARS</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">4-8 categories you should dominate</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Tied to ICP themes · commercial intent · brand authority</text>
+    </g>
+
+    <!-- 04 Cluster Architecture -->
+    <g transform="translate(560 396)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">04 · CLUSTER ARCHITECTURE</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Sub-topic map under every pillar</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Pillar pages + 8-20 supporting pieces each</text>
+    </g>
+
+    <!-- 05 Channel Mix + Cadence -->
+    <g transform="translate(40 522)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">05 · CHANNEL MIX + CADENCE</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Where you publish and how often</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Blog, LinkedIn, X, YouTube, podcast, email, community</text>
+    </g>
+
+    <!-- 06 Production Workflow -->
+    <g transform="translate(560 522)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">06 · PRODUCTION WORKFLOW</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Who makes what, how, for how much</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Founder · writer · editor · Claude pipeline · throughput</text>
+    </g>
+
+    <!-- 07 Distribution System -->
+    <g transform="translate(40 648)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">07 · DISTRIBUTION SYSTEM</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Amplification ladder + partnerships</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">1 long-form to 5 short-form · syndication · DM capture</text>
+    </g>
+
+    <!-- 08 KPI Framework -->
+    <g transform="translate(560 648)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">08 · KPI FRAMEWORK</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Leading + lagging indicators</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Velocity · audience · traffic · AEO citations · qualified leads</text>
+    </g>
+
+    <!-- 09 90-Day Production Roadmap -->
+    <g transform="translate(40 774)">
+      <rect width="480" height="112" rx="14" fill="url(#cardGrad)" stroke="#1a1a24" stroke-width="1"/>
+      <text x="24" y="40" fill="#75e9d2" font-size="14" font-weight="700" letter-spacing="3">09 · 90-DAY ROADMAP</text>
+      <text x="24" y="74" fill="#ffffff" font-size="22" font-weight="600">Priority queue for the next quarter</text>
+      <text x="24" y="98" fill="#9494ad" font-size="15">Pillar order · cluster dependencies · staffing plan</text>
+    </g>
+
+    <!-- 10 Cross-input synthesis -->
+    <g transform="translate(560 774)">
+      <rect width="480" height="112" rx="14" fill="#75e9d2" stroke="#75e9d2" stroke-width="1"/>
+      <text x="24" y="40" fill="#08080d" font-size="14" font-weight="700" letter-spacing="3">10 · CROSS-INPUT SYNTHESIS</text>
+      <text x="24" y="74" fill="#08080d" font-size="22" font-weight="700">The content territory you can own</text>
+      <text x="24" y="98" fill="#08080d" font-size="15" opacity="0.80">ICP × positioning × whitespace · top 3 90-day moves</text>
+    </g>
+  </g>
+
+  <!-- Bottom bar: URL + CTA -->
+  <g transform="translate(0 924)">
+    <line x1="40" y1="0" x2="1040" y2="0" stroke="#1a1a24" stroke-width="1"/>
+    <text x="40" y="54" fill="#9494ad" font-size="20" font-weight="500">Delivered as one Word doc + markdown source in your GitHub repo.</text>
+    <text x="40" y="104" fill="#ffffff" font-size="36" font-weight="700" font-family="'Montserrat', sans-serif" letter-spacing="-0.5">entir<tspan fill="#75e9d2">ecommerce.ai</tspan><tspan fill="#9494ad">/playbooks/content-strategy</tspan></text>
+  </g>
+</svg>

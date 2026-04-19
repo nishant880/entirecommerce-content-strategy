@@ -34,7 +34,7 @@ Three personas.
 
 **The founder-led DTC brand owner publishing content ad-hoc.** You post on LinkedIn when inspiration hits. You ship a blog post every few weeks. You have a newsletter that goes out when you remember. You know content should be compounding, you know you should have a plan, and you know the current approach isn't working. You want a 12-month operating system on a page: which topics to own, which channels to show up on, how often to publish, and what to measure.
 
-**The fractional CMO running content across multiple DTC brands.** Every client asks for a content strategy in month one. You need a repeatable framework that produces a defensible plan in 3 to 4 hours of work. Your problem is consistency: each brand deserves the same rigour without 40 hours of bespoke thinking per engagement. This playbook is the same eight-section process every time.
+**The fractional CMO running content across multiple DTC brands.** Every client asks for a content strategy in month one. You need a repeatable framework that produces a defensible plan in an hour of work. Your problem is consistency: each brand deserves the same rigour without 40 hours of bespoke thinking per engagement. This playbook is the same eight-section process every time.
 
 **The in-house content lead at a funded DTC brand.** You have a team, a budget, and a CMS. What you don't have is a pillar architecture everyone agrees on, a cadence the team can hold, and a KPI framework the CEO trusts. You want the document that answers those three questions in one pass so the team can get back to producing work.
 
@@ -154,7 +154,7 @@ Claude Code loads `CLAUDE.md` on session start. Confirm "Loaded CLAUDE.md" appea
 
 ## Your First Run
 
-Five steps. Two to four hours on Full mode, about two hours on Quick mode.
+Five steps. 30 to 60 minutes on Full mode, about 30 minutes on Quick mode.
 
 1. **Open Claude Code in your project folder.** `cd my-brand-content && claude`
 2. **Paste the full contents of `content-strategy.md` into the terminal.** Hit enter.
@@ -196,10 +196,10 @@ Ten high-value deliverables in one consolidated document.
 
 | Mode | When it applies | What changes |
 |---|---|---|
-| Full Reset | Existing programme, 12-month strategic refresh | All eight sections. 2 to 4 hours. |
-| Refresh Quick | Existing programme, pillar-only reset | Sections 1 to 5 only. 2 hours. |
-| Launch Full | Greenfield / pre-launch, full operating-system design | All eight sections with Path B framing. 2 to 4 hours. |
-| Launch Quick | Greenfield, minimum-viable content plan | Sections 1 to 5 only. 2 hours. |
+| Full Reset | Existing programme, 12-month strategic refresh | All eight sections. 30 to 60 minutes. |
+| Refresh Quick | Existing programme, pillar-only reset | Sections 1 to 5 only. 30 minutes. |
+| Launch Full | Greenfield / pre-launch, full operating-system design | All eight sections with Path B framing. 30 to 60 minutes. |
+| Launch Quick | Greenfield, minimum-viable content plan | Sections 1 to 5 only. 30 minutes. |
 
 Auto-detection reads `CLAUDE.md`. If a content inventory is listed, Path A. Otherwise Path B.
 

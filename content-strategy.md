@@ -94,7 +94,7 @@ Auto-detect from `CLAUDE.md` and the user's inputs:
 | Mode | Trigger |
 |---|---|
 | Full Reset | Path A (existing programme), user wants full 12-month strategic refresh |
-| Refresh Quick | Path A, user wants pillars + cadence only (2 hours) |
+| Refresh Quick | Path A, user wants pillars + cadence only (30 minutes) |
 | Launch Full | Path B (greenfield), user wants full operating-system design |
 | Launch Quick | Path B, user wants minimum-viable content plan before first publish |
 
