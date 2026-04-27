@@ -131,6 +131,8 @@ Produce:
 
 ### Section 3. Topic pillar selection
 
+**Upstream inputs.** Pillar selection runs best when an industry keyword universe is already available. When the brand has a prior GTM audit (`industry-keyword-universe.csv` + `industry-clusters-page-map.md` in `data/gtm-audit/`) or SEO audit (`data/seo-audit/`) or content-gap audit (`data/content-gap/`), read those artefacts first: the clusters are the pillar candidates, the intent tags feed the commercial-intent test, the opportunity scores feed the brand-authority test. Do not duplicate the consolidation work here. When those artefacts are missing, Section 3 of this playbook runs the consolidation inline, but the GTM/SEO/content-gap playbooks are the canonical home of that step.
+
 4 to 8 pillars. Each must satisfy three tests:
 
 1. ICP relevance (ties to at least one recurring theme)
